@@ -8,3 +8,7 @@ entrypoint = "OtherModule"
 
 [docusaurus]
 tagline = "Making multi-platform simpler"
+
+[home]
+enabled = true
+includeReadme = true
